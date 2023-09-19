@@ -7,3 +7,17 @@ Termux fun tool
 
 👉 pkg install termux-api 
 
+👉 git clone https://github.com/mrkarthick-cool/Termux-fun-tool.git
+
+
+# How to run tool 🔥
+
+
+👉 cd Termux-fun-Tool
+
+👉 chmod +x *
+
+👉 ./fun..sh
+
+
+
