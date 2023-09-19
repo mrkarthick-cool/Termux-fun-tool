@@ -17,7 +17,7 @@ Termux fun tool
 
 👉 chmod +x *
 
-👉 ./fun.sh
+👉 ./Fun.sh  ( or ) bash Fun.sh
 
 
 
