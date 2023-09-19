@@ -13,7 +13,7 @@ Termux fun tool
 # How to run tool 🔥
 
 
-👉 cd Termux-fun-Tool
+👉 cd Termux-fun-tool
 
 👉 chmod +x *
 
