@@ -4,7 +4,7 @@ sleep 2
 
 echo " Dont run continuously this tool "
 
-sleep 3
+sleep 2 
 
 clear
 
@@ -27,8 +27,15 @@ echo ""
 echo " ---------------------------------"
 echo ""
 echo ""
+sleep 2
+echo " Tool For  Termux  fun perpose "
+sleep 2
+echo " join telegram group "
+echo ""
+sleep 2
+xdg-open https://telegram.me/teluguhackersgroup1
 echo ""
 while :
 do
-termux-toast -b black  -c green i am linux poison
+termux-toast -b black  -c green i am @linuxpoison
 done 
